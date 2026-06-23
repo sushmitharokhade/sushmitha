@@ -22,5 +22,7 @@ public class day3 {
 	public void Apitest()
 	{
 		System.out.println("API test2");
+		System.out.println("Api test1 dev");
+		System.out.println("Api test1 dev");
 	}
 }
