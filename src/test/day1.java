@@ -16,13 +16,16 @@ public void aftermethod()
 	System.out.println("after method");
 	System.out.println("after method1");
 	System.out.println("after method2");
+
 }
 
 	@AfterClass
 	public void afterclass()
 	{
 		System.out.println("afterclass");
+		System.out.println("after class 2");
 	}
+	
 	@Test(groups={"smoke"})
 	public void demo()
 	{
