@@ -12,6 +12,7 @@ public class day2 {
 	public void mobilelogin()
 	{
 		System.out.println("MobileLogin");
+		System.out.println("MobileLogin");
 	}
 	@BeforeSuite
 	public void beforesuite()
