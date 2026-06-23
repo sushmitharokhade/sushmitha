@@ -31,6 +31,6 @@ public class day2 {
 		System.out.println("Mobilelogout");
 		System.out.println("gitstuffmaster");
 		System.out.println("gitstuffmaster 1");
-		System.out.println("gitstuffmaster 2");
+		
 	}
 }
