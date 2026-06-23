@@ -14,6 +14,8 @@ public class day1 {
 public void aftermethod()
 {
 	System.out.println("after method");
+	System.out.println("after method1");
+	System.out.println("after method2");
 }
 
 	@AfterClass
