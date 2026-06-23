@@ -14,6 +14,8 @@ public class day3 {
 	public void mobiletest()
 	{
 		System.out.println("Api test1");
+		System.out.println("Api test1 dev");
+		System.out.println("Api test1 dev");
 	}
 	
 	@Test
