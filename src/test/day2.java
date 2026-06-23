@@ -34,6 +34,8 @@ public class day2 {
 		System.out.println("gitstuffdevelop 1");
 		System.out.println("gitstuffdevelop 2");
 		System.out.println("gitstuffdevelop 3");
+		System.out.println("master1");
+		System.out.println("master2");
 
 		
 	}
