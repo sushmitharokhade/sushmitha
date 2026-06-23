@@ -29,5 +29,8 @@ public class day2 {
 	public void mobilelogout()
 	{
 		System.out.println("Mobilelogout");
+		System.out.println("gitstuffmaster");
+		System.out.println("gitstuffmaster 1");
+		System.out.println("gitstuffmaster 2");
 	}
 }
