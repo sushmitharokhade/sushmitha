@@ -24,6 +24,7 @@ public class day2 {
 	public void beforemethod()
 	{
 		System.out.println("before method");
+		System.out.println("before method");
 	}
 	@Test(groups={"smoke"})
 	public void mobilelogout()
@@ -37,6 +38,7 @@ public class day2 {
 		System.out.println("master1");
 		System.out.println("develop312");
 		System.out.println("develop31234");
+		
 
 
 		
