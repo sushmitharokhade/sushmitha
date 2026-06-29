@@ -35,15 +35,12 @@ public class day2 {
 		System.out.println("gitstuffdevelop 1");
 		System.out.println("gitstuffdevelop 2");
 		System.out.println("gitstuffdevelop 3");
-<<<<<<< HEAD
-		System.out.println("gitstuffdevelop");
-=======
 		System.out.println("master1");
 		System.out.println("develop312");
 		System.out.println("develop31234");
 		
 
->>>>>>> master
+
 
 		
 	}
